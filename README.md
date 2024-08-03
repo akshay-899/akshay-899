@@ -1,4 +1,4 @@
-## Hi there 👋I Am M Akshay Prabhu
+## Hi there 👋I am M Akshay Prabhu
 
 # 💫 About Me:
 An enthusiastic learner,passionate about coding.
