@@ -1,6 +1,5 @@
 ## Hi there 👋I Am M Akshay Prabhu
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*u2gfoahtUkurWRvI.jpg" alt="">
 # 💫 About Me:
 📫 How to reach me makshayprabhu2003@gmail.com
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM2aWh2dHVnaDY4MHp1bXZ4bndtM243eGQ4NmtqM2p3cWkxbnVmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" alt="coding" width=350 align="right" top="0">
