@@ -6,8 +6,9 @@ An enthusiastic learner,passionate about coding.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_akshay_prabhu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-akshay-prabhu-700912229)
-[![Gmail](https://img.shields.io/badge/Gmail-%23E4405F.svg?logo=Gmail&logoColor=white)](mailto:makshayprabhu2003@gmail.com)
 
+## 📩 Contact Me:
+Gmail: makshayprabhu2003@gmail.com<a href="mailto:makshayprabhu2003@gmail.com">
 
 
 
