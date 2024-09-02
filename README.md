@@ -4,7 +4,7 @@
 An enthusiastic learner,passionate about coding.
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM2aWh2dHVnaDY4MHp1bXZ4bndtM243eGQ4NmtqM2p3cWkxbnVmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" alt="coding" width=350 align="right" top="0">
 
-## 🌐 Socials:
+<h3> 🌐 Socials:</h3>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_akshay_prabhu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-akshay-prabhu-700912229)
 
 ## 📩 Contact Me:
