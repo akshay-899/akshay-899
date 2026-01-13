@@ -9,19 +9,3 @@ An enthusiastic learner,passionate about coding.
 
 ## 📩 Contact Me:
 Gmail: makshayprabhu2003@gmail.com<a href="mailto:makshayprabhu2003@gmail.com">
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshay-899&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akshay-899&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-899&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=akshay-899&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
