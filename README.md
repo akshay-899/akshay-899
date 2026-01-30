@@ -4,10 +4,12 @@
 An enthusiastic learner,passionate about coding.
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmM2aWh2dHVnaDY4MHp1bXZ4bndtM243eGQ4NmtqM2p3cWkxbnVmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" alt="coding" width=350 align="right" top="0" style="z-index:3;">
 
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=akshay-899&theme=radical&border_radius=4)](https://git.io/streak-stats)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_akshay_prabhu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-akshay-prabhu-700912229)
 
 ## 📩 Contact Me:
 Gmail: makshayprabhu2003@gmail.com<a href="mailto:makshayprabhu2003@gmail.com">
 
-[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=akshay-899&theme=radical&border_radius=4)](https://git.io/streak-stats)
+
