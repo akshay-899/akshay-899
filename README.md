@@ -9,3 +9,5 @@ An enthusiastic learner,passionate about coding.
 
 ## 📩 Contact Me:
 Gmail: makshayprabhu2003@gmail.com<a href="mailto:makshayprabhu2003@gmail.com">
+
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=akshay-899&theme=radical&border_radius=4)](https://git.io/streak-stats)
